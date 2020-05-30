@@ -4,5 +4,5 @@ Para diminuir a verbosidade e garantir que a validação só apareça no evento 
 
 Também usei Validators de outros pacotes: https://www.npmjs.com/package/ng-brazil/v/2.0.9
 
-![Example](https://github.com/Lipe1994/FormBuilderComValidatorsDoNgBrazil/blob/master/example2.png)
+![Example](https://github.com/Lipe1994/ReactiveFormsComValidacoesAvancadas/blob/master/example2.png)
 
